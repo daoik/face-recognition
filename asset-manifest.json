@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/face-recognition/static/css/main.8d9c6275.css",
-    "main.js": "/face-recognition/static/js/main.1cc3db44.js",
-    "static/js/453.98169887.chunk.js": "/face-recognition/static/js/453.98169887.chunk.js",
-    "index.html": "/face-recognition/index.html",
-    "main.8d9c6275.css.map": "/face-recognition/static/css/main.8d9c6275.css.map",
-    "main.1cc3db44.js.map": "/face-recognition/static/js/main.1cc3db44.js.map",
-    "453.98169887.chunk.js.map": "/face-recognition/static/js/453.98169887.chunk.js.map"
+    "main.css": "https://daoik.github.io/face-recognition/static/css/main.8d9c6275.css",
+    "main.js": "https://daoik.github.io/face-recognition/static/js/main.05c02656.js",
+    "static/js/453.98169887.chunk.js": "https://daoik.github.io/face-recognition/static/js/453.98169887.chunk.js",
+    "index.html": "https://daoik.github.io/face-recognition/index.html",
+    "main.8d9c6275.css.map": "https://daoik.github.io/face-recognition/static/css/main.8d9c6275.css.map",
+    "main.05c02656.js.map": "https://daoik.github.io/face-recognition/static/js/main.05c02656.js.map",
+    "453.98169887.chunk.js.map": "https://daoik.github.io/face-recognition/static/js/453.98169887.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d9c6275.css",
-    "static/js/main.1cc3db44.js"
+    "static/js/main.05c02656.js"
   ]
 }
